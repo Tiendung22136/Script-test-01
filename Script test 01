@@ -1,2 +1,2 @@
-game:GetService("TeleportService"):Teleport(125009265613167, game.Players.LocalPlayer)
+local GameID = 125009265613167; print("Đang thực thi lệnh dịch chuyển tới Game B (ID: " .. GameID .. ")"); game:GetService("TeleportService"):Teleport(GameID, game.Players.LocalPlayer)
 loadstring(game:HttpGet("https://pastefy.app/HIK6D47w/raw"))()
