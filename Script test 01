@@ -1,2 +1,2 @@
-game:GetService("TeleportService"):Teleport(1234567890, game.Players.LocalPlayer)
+game:GetService("TeleportService"):Teleport(125009265613167, game.Players.LocalPlayer)
 loadstring(game:HttpGet("https://pastefy.app/HIK6D47w/raw"))()
